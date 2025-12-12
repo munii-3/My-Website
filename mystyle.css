@@ -67,25 +67,7 @@ background-color: #aaa;
   margin: 10px;
   padding: 10px;
 }
-img{
-  
-  height: 200px;
-  width: 200px;
-  margin: 10px;
-  
-}
 
-.row{
-  display: flex;
-  flex-wrap: wrap-reverse;
-  flex-direction:row-reverse;
-}
-
-.side{
-  flex: 20%;
-  background-color: #f1f1f1;
-  padding: 20px;
-}
 
 
 
@@ -97,5 +79,6 @@ img{
 
 .active{
   background-color: #333;
+
 
 }
