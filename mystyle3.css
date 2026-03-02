@@ -1,10 +1,7 @@
 * {
   box-sizing: border-box;
 }
-.content{
-  max-width:500px;
-  margin: auto;
-}
+
 
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -100,6 +97,7 @@ img{
   width: 100%;
   padding: 20px;
 }
+
 
 
 
